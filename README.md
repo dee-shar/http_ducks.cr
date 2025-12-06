@@ -1,5 +1,5 @@
 # http_ducks.cr
-Web-API for httpducks.com ducks for every HyperText Transfer Protocol response status code
+Web-API for [httpducks.com](https://httpducks.com) ducks for every HyperText Transfer Protocol response status code
 
 ## Example
 ```cr
